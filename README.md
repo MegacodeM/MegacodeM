@@ -1,58 +1,86 @@
-<h1 align="center">Hola, soy Marco Adriel</h1>
-<p align="center"><strong>Desarrollo web · C# / .NET · PHP · Bases de datos</strong></p>
-<p align="center">Aplicaciones para organizar información, gestionar procesos y resolver necesidades concretas.</p>
+<h1 align="center">Hola, soy Marco Adriel 👋</h1>
+
+<h3 align="center">Desarrollo web · Backend · Sistemas de gestión</h3>
+
+<p align="center">
+  <strong>C# / .NET &nbsp; • &nbsp; PHP &nbsp; • &nbsp; SQL Server / MySQL</strong>
+</p>
+
+<p align="center">
+  Construyo aplicaciones web para organizar información y simplificar procesos.
+</p>
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Desarrollo aplicaciones web enfocadas en sistemas de gestión. En mis proyectos trabajo con **C# y ASP.NET Core**, **PHP** y bases de datos relacionales, conectando la lógica de negocio con interfaces para el usuario.
+Soy **Marco Adriel**, desarrollador detrás de **MegacodeM**. Mi trabajo en GitHub se centra en aplicaciones de gestión: desde el registro de ingresos y gastos hasta la administración de un gimnasio.
 
-Mi portafolio incluye un sistema de control de gastos y una aplicación para la administración de gimnasios. Me interesa seguir profundizando en arquitectura de software, desarrollo backend y pruebas automatizadas.
+Combino **lógica de negocio, bases de datos e interfaces web**. En mis proyectos utilizo ASP.NET Core MVC y PHP, con estructuras que separan las responsabilidades del código.
 
-## Tecnologías presentes en mis proyectos
+## 🛠️ Tecnologías y herramientas
 
-| Área | Tecnologías |
-| --- | --- |
-| Backend | C#, .NET 10, ASP.NET Core MVC, PHP |
-| Datos | SQL Server, MySQL, Entity Framework Core |
-| Interfaces | HTML, CSS, JavaScript, Razor, Bootstrap, jQuery |
-| Pruebas | MSTest, Moq |
-| Herramientas | Git, GitHub, Visual Studio |
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" title="PHP" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" title="HTML5" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" title="CSS3" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" alt="jQuery" title="jQuery" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="44" height="44" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio" width="44" height="44" />
+</p>
 
-## Proyectos destacados
+**Backend:** C#, .NET 10, ASP.NET Core MVC y PHP.  
+**Datos:** SQL Server, MySQL y Entity Framework Core.  
+**Frontend:** HTML, CSS, JavaScript, Razor, Bootstrap y jQuery.  
+**Pruebas:** MSTest y Moq.
 
-### [Control de gastos](https://github.com/MegacodeM/SISTEMA-DE-CONTROL-DE-GASTOS)
+## 🚀 Proyectos destacados
 
-Aplicación web para registrar ingresos y gastos, organizar transacciones por categorías y consultar un resumen financiero.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💰 Control de gastos</h3>
+<p>Aplicación web para registrar ingresos y gastos, organizar categorías y consultar un resumen financiero.</p>
+<ul>
+<li>Autenticación con ASP.NET Core Identity.</li>
+<li>Balance, movimientos recientes y gráficos con Chart.js.</li>
+<li>Capas Domain, Infrastructure y Web, con pruebas unitarias.</li>
+</ul>
+<p><strong>C# · ASP.NET Core · EF Core · SQL Server</strong></p>
+<p><a href="https://github.com/MegacodeM/SISTEMA-DE-CONTROL-DE-GASTOS"><strong>Explorar proyecto →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏋️ Gestión de gimnasio</h3>
+<p>Sistema web para centralizar la administración de socios y las operaciones de un gimnasio.</p>
+<ul>
+<li>Socios, planes, suscripciones y asistencia.</li>
+<li>Control de caja, gastos y seguimiento del progreso.</li>
+<li>Carnets en PDF con código QR.</li>
+</ul>
+<p><strong>PHP · MySQL · Bootstrap · FPDF</strong></p>
+<p><a href="https://github.com/MegacodeM/GYM-SISTEM"><strong>Explorar proyecto →</strong></a></p>
+</td>
+</tr>
+</table>
 
-- Autenticación con ASP.NET Core Identity y consultas de datos por usuario.
-- Panel con balance, movimientos recientes y gráficos con Chart.js.
-- Separación en proyectos Domain, Infrastructure y Web.
-- Acceso a datos con Entity Framework Core, repositorios y Unit of Work.
-- Pruebas unitarias con MSTest y Moq.
+## 🧩 Del problema a la aplicación
 
-**Stack:** C# · ASP.NET Core MVC · SQL Server · Entity Framework Core · Razor
-
-[Explorar código →](https://github.com/MegacodeM/SISTEMA-DE-CONTROL-DE-GASTOS)
-
-### [Sistema de gestión de gimnasio](https://github.com/MegacodeM/GYM-SISTEM)
-
-Aplicación web para centralizar la administración de socios y las operaciones de un gimnasio.
-
-- Gestión de socios, planes y suscripciones.
-- Registro de asistencia y seguimiento del progreso.
-- Control de caja y gastos.
-- Generación de carnets en PDF con código QR.
-- Organización del código en modelos, vistas y controladores.
-
-**Stack:** PHP · MySQL · Bootstrap · JavaScript · FPDF
-
-[Explorar código →](https://github.com/MegacodeM/GYM-SISTEM)
+- **Procesos de negocio:** módulos para transacciones, suscripciones y operaciones de caja.
+- **Código organizado:** separación por capas en .NET y por modelos, vistas y controladores en PHP.
+- **Información útil:** paneles de resumen y generación de documentos.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/MegacodeM?tab=repositories">Ver todos mis repositorios</a>
+  <strong>Conoce más de mi trabajo</strong><br /><br />
+  <a href="https://github.com/MegacodeM?tab=repositories">📂 Todos mis repositorios</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/MegacodeM">🐙 Mi perfil de GitHub</a>
 </p>
 
